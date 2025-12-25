@@ -1,0 +1,12 @@
+streamlit
+google-genai
+pandas
+numpy
+scikit-learn
+plotly
+pypdf2
+python-dotenv
+google-cloud-aiplatform
+vertexai
+google-auth
+pypdf2

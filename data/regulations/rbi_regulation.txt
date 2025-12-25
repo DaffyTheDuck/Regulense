@@ -1,0 +1,144 @@
+RBI MASTER DIRECTION - KYC AND AML COMPLIANCE 2024
+
+SECTION 1: CUSTOMER IDENTIFICATION
+
+1.1 PAN Card Requirement
+All customers must provide Permanent Account Number (PAN) card for transactions exceeding INR 50,000. This is MANDATORY and non-negotiable for compliance with Income Tax regulations.
+
+1.2 Customer Due Diligence
+Regulated entities shall undertake Customer Due Diligence (CDD) measures when:
+- Opening new accounts or commencing business relationships
+- Carrying out occasional transactions exceeding INR 10,00,000 (Ten Lakh)
+- When there is suspicion of money laundering or terrorist financing
+- When there is doubt about previously obtained customer identification data
+
+1.3 Address Verification
+Current address proof not older than 2 months must be obtained from all customers. Acceptable documents include utility bills, bank statements, or government-issued address proof.
+
+1.4 Photograph Requirement
+Recent passport-size photographs must be obtained for all individual customers during account opening.
+
+SECTION 2: BENEFICIAL OWNERSHIP
+
+2.1 Identification Requirement - Companies
+For corporate entities, beneficial owners are natural persons who ultimately own or control 25% or more of shares or voting rights. All such beneficial owners must be identified and verified.
+
+2.2 Identification Requirement - Partnerships
+For partnership firms, beneficial owners are partners who own or control 15% or more capital contribution.
+
+2.3 Documentation
+Complete beneficial ownership structure must be documented, verified, and maintained. This includes ownership charts, shareholder registers, and trust deeds where applicable.
+
+2.4 Verification Standards
+Beneficial ownership information must be verified through independent sources such as company registries, financial statements, or third-party databases.
+
+SECTION 3: TRANSACTION MONITORING
+
+3.1 Cash Transaction Reporting (CTR)
+All cash transactions (deposits or withdrawals) exceeding INR 10,00,000 (Ten Lakh) must be reported to Financial Intelligence Unit - India (FIU-IND) within 15 days from the end of the month.
+
+3.2 Suspicious Transaction Reporting (STR)
+Suspicious transactions must be reported to FIU-IND within 7 days of forming suspicion, regardless of the transaction amount. The fact of filing STR must be kept strictly confidential.
+
+3.3 Transaction Monitoring System
+Automated transaction monitoring systems must be implemented to identify:
+- Unusual patterns of transactions
+- Transactions not in line with customer profile
+- Structuring of transactions to avoid reporting thresholds
+- Sudden increases in transaction volumes
+
+3.4 High-Risk Transactions
+Enhanced monitoring is required for:
+- Transactions with high-risk countries
+- Large cash transactions
+- Politically Exposed Persons (PEPs)
+- Non-face-to-face customers
+
+SECTION 4: RECORD KEEPING
+
+4.1 Retention Period
+All KYC documents, account opening forms, and transaction records must be maintained for a minimum period of 5 years from the date of account closure or cessation of transaction.
+
+4.2 Transaction Records
+Complete details of all transactions must be preserved for 5 years to enable reconstruction of individual transactions if required by authorities.
+
+4.3 Data Security
+Customer information and transaction records must be stored securely with:
+- Encryption for electronic records
+- Access controls and audit trails
+- Regular backups and disaster recovery procedures
+
+4.4 Retrieval Requirements
+All records must be readily retrievable and producible to regulatory authorities within 24 hours of request.
+
+SECTION 5: TRAINING AND AWARENESS
+
+5.1 Employee Training - Mandatory
+All employees must receive minimum 4 hours of AML/CFT training annually. Training must cover:
+- Relevant laws and regulations (PMLA, UAPA)
+- Institution's AML/CFT policies
+- Red flags and suspicious transaction indicators
+- Reporting procedures
+
+5.2 Compliance Officer Training
+The Principal Officer and compliance team must receive specialized training on:
+- Investigation techniques
+- STR/CTR filing procedures
+- Interface with law enforcement
+- Latest money laundering typologies
+
+5.3 Training Documentation
+Attendance records, training materials, and completion certificates must be maintained for regulatory review.
+
+SECTION 6: RISK CATEGORIZATION
+
+6.1 Customer Risk Assessment
+All customers must be categorized as Low, Medium, or High risk based on:
+- Customer profile and occupation
+- Nature and location of business
+- Countries of operation
+- Transaction patterns
+
+6.2 Enhanced Due Diligence (EDD)
+High-risk customers require:
+- Senior management approval before account opening
+- Source of wealth and source of funds verification
+- Enhanced ongoing monitoring (minimum every 6 months)
+- Additional documentation
+
+6.3 Simplified Due Diligence (SDD)
+Low-risk customers (government departments, listed companies) may be subjected to simplified measures with proper approval.
+
+SECTION 7: POLITICALLY EXPOSED PERSONS (PEPs)
+
+7.1 PEP Identification
+Systems must be in place to identify:
+- Foreign PEPs (heads of state, senior politicians, judicial officers)
+- Domestic PEPs
+- Family members and close associates of PEPs
+
+7.2 PEP Requirements
+For all PEP relationships:
+- Approval from Managing Director/CEO level required
+- Source of wealth must be established
+- Enhanced ongoing monitoring is mandatory
+- Any significant transactions must be scrutinized
+
+SECTION 8: PENALTIES AND COMPLIANCE
+
+8.1 Non-Compliance Penalties
+Violations of these directions may result in:
+- Monetary penalty up to INR 1 crore (One Crore)
+- Restrictions on business operations
+- Criminal prosecution under PMLA 2002 with imprisonment up to 10 years
+
+8.2 Compliance Certificate
+Annual compliance certificate must be submitted to RBI by June 30 each year, certified by the Principal Officer and CEO.
+
+8.3 Internal Audit
+Internal audit must verify AML/CFT compliance at least annually, covering all branches and processes.
+
+---
+
+EFFECTIVE DATE: April 1, 2024
+ISSUED BY: Reserve Bank of India, Department of Regulation

@@ -1,0 +1,216 @@
+FINTECH SOLUTIONS PRIVATE LIMITED
+ANTI-MONEY LAUNDERING (AML) AND KYC POLICY
+
+Document Version: 2.0
+Last Updated: June 2023
+Effective Date: July 1, 2023
+
+===========================================================
+SECTION 1: CUSTOMER ONBOARDING
+===========================================================
+
+1.1 Identity Verification
+All customers must provide:
+- Government-issued photo ID (Aadhaar, Passport, Driving License, or Voter ID)
+- Recent passport-size photograph
+- Address proof (utility bill, bank statement, or rent agreement)
+
+Note: PAN card is collected on a best-effort basis. It is currently MANDATORY only for transactions exceeding INR 2,00,000 in aggregate per year.
+
+1.2 Digital Verification Process
+We use the following for customer verification:
+- Aadhaar-based OTP verification
+- DigiLocker for document authentication
+- Live photograph capture with location tagging
+- Video KYC for loan customers above INR 50,000
+
+1.3 Age and Eligibility
+Customers must be at least 18 years old. We verify age through government-issued ID documents.
+
+===========================================================
+SECTION 2: BENEFICIAL OWNERSHIP
+===========================================================
+
+2.1 Corporate Customer Requirements
+For business and corporate customers, we collect:
+- Certificate of Incorporation
+- PAN of the company
+- GST Registration Certificate
+- List of Directors with their ID proofs
+- Latest financial statements (if available)
+
+2.2 Beneficial Ownership Declaration
+We collect beneficial ownership information to the best extent possible based on customer declarations. For complex corporate structures, we document the ownership structure as provided by the customer.
+
+Note: We are developing enhanced procedures for beneficial ownership verification as per latest guidelines.
+
+===========================================================
+SECTION 3: TRANSACTION MONITORING
+===========================================================
+
+3.1 Manual Review Process
+Our operations team reviews daily transaction reports every morning at 9:00 AM. Weekly summaries of high-value transactions are prepared for management review.
+
+3.2 Transaction Limits
+Current system limits:
+- Per transaction: INR 1,00,000
+- Daily limit: INR 2,00,000
+- Monthly limit: INR 10,00,000
+
+3.3 Cash Transaction Monitoring
+Cash deposits through partner agents:
+- Cash deposits above INR 50,000 require Branch Manager approval
+- We maintain daily cash transaction registers
+- Monthly summary prepared for compliance review
+
+Note: We are working on implementing the RBI threshold of INR 10,00,000 for Cash Transaction Reporting (CTR). Currently, our system captures all cash transactions above INR 50,000 for internal monitoring purposes.
+
+3.4 Suspicious Activity Detection
+Transactions are flagged for review if they:
+- Are inconsistent with customer's known profile
+- Show frequent credits and immediate withdrawals
+- Involve newly opened accounts with high activity
+- Come from customers who are evasive about transaction purpose
+
+3.5 Alert Management
+When our system generates an alert:
+- Operations team reviews within 24 hours
+- If suspicious, escalated to Compliance Officer
+- Compliance Officer investigates within 48 hours
+- Decision made to close alert or file STR
+
+===========================================================
+SECTION 4: REPORTING PROCEDURES
+===========================================================
+
+4.1 Suspicious Transaction Reports (STR)
+STRs are filed when the Compliance Officer concludes a transaction is suspicious.
+
+Filing Timeline:
+- Investigation completed within 7 days of alert
+- STR filed with FIU-IND within 7 days of conclusion
+- Total timeline target: 14 days from initial alert
+
+Note: We are working to streamline this to meet RBI's 7-day filing requirement from the point of forming suspicion.
+
+4.2 Confidentiality
+STR filing is STRICTLY CONFIDENTIAL. Customer is never informed. All employees sign annual confidentiality undertakings.
+
+4.3 Cash Transaction Reports
+We currently file CTRs for transactions exceeding our internal threshold of INR 2,00,000. System upgrade is planned to align with RBI's INR 10,00,000 threshold.
+
+Monthly compilation is done by Finance team, reviewed by Compliance Officer, and submitted to FIU-IND by 20th of following month.
+
+===========================================================
+SECTION 5: RECORD KEEPING
+===========================================================
+
+5.1 Document Retention Policy
+We maintain records for minimum 5 years from account closure:
+- KYC documents (ID proof, address proof, photographs)
+- Account opening forms
+- Transaction records
+- Correspondence with customers
+
+Storage: Physical files for pre-2020 customers; Digital scans for 2020 onwards.
+
+Note: Historical records from 2015-2019 are being migrated to long-term storage to meet the 5-year requirement.
+
+5.2 Data Security
+Customer records are protected through:
+- Encrypted storage (AES-256)
+- Role-based access controls
+- Weekly backups
+- Annual security audits
+
+5.3 Record Retrieval
+Digital records: Within 2 hours
+Physical records: Within 24 hours
+
+===========================================================
+SECTION 6: TRAINING AND AWARENESS
+===========================================================
+
+6.1 Employee Training
+All new employees receive 2-hour AML/KYC training during onboarding covering:
+- Overview of PMLA and RBI regulations
+- Company policies and procedures
+- Red flags and suspicious indicators
+
+6.2 Annual Refresher Training
+All employees complete 1-hour annual refresher training through our online learning portal.
+
+Completion Target: 100% by December 31
+Current Status (as of June 2023): 87% completion
+
+Note: We are enhancing our training program to meet the RBI requirement of minimum 4 hours annually for all staff.
+
+6.3 Compliance Team Training
+Compliance officers attend external certification programs and workshops on AML/CFT best practices.
+
+===========================================================
+SECTION 7: RISK ASSESSMENT
+===========================================================
+
+7.1 Customer Risk Categories
+We categorize customers as:
+- STANDARD RISK (majority of retail customers)
+- HIGH RISK (self-employed, high transaction volumes, cash-intensive businesses)
+
+Note: We are developing a "Low Risk" category for salaried employees from listed companies and government departments.
+
+7.2 High-Risk Customer Controls
+For high-risk customers:
+- Branch Manager approval required for account opening
+- Quarterly account review by compliance team
+- Enhanced transaction monitoring
+
+7.3 PEP Screening
+Currently, we rely on customer self-declaration for PEP identification. We are evaluating automated PEP screening tools for implementation in Q4 2023.
+
+===========================================================
+SECTION 8: COMPLIANCE STRUCTURE
+===========================================================
+
+8.1 Compliance Team
+Team Structure:
+- 1 Chief Compliance Officer (Principal Officer)
+- 2 Compliance Analysts
+- Reports to CFO
+
+8.2 Principal Officer
+Mr. Rajesh Kumar
+Email: rajesh.kumar@fintechsolutions.com
+Phone: +91-9876543210
+
+Responsibilities:
+- Overall AML/CFT compliance
+- File STRs and CTRs with FIU-IND
+- Coordinate with regulators
+- Manage compliance team
+
+8.3 Internal Audit
+Annual internal audit of AML processes. Last audit: March 2023. Next scheduled: March 2024.
+
+===========================================================
+APPENDIX: KNOWN GAPS AND REMEDIATION TIMELINE
+===========================================================
+
+Gap                                    | Current    | Target     | Timeline
+---------------------------------------|------------|------------|----------
+PAN threshold                          | INR 2L     | INR 50K    | Q4 2023
+CTR threshold                          | INR 2L     | INR 10L    | Q1 2024
+STR filing timeline                    | 14 days    | 7 days     | Q4 2023
+Training hours                         | 1 hr/year  | 4 hr/year  | Q1 2024
+Beneficial ownership verification      | Declaration| Verified   | Q2 2024
+PEP screening automation              | Manual     | Automated  | Q4 2023
+Transaction monitoring system          | Manual     | Automated  | Q2 2024
+
+===========================================================
+END OF DOCUMENT
+===========================================================
+
+This policy is reviewed annually and approved by the Board of Directors.
+Next Review Date: June 2024
+
+For Internal Use Only | Confidential
